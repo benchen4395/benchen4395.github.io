@@ -23,5 +23,11 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
+  gem "hawkins"
 end
+gem 'csv'
+gem "jekyll"
+
+gem "bigdecimal", "~> 3.1"  # 推荐 3.1+ 版本<cite>[13]</cite>
+gem "base64", "~> 0.2.0"    # 防止之前的报错重现
+gem "logger", "~> 1.6"      # 阻止 Ruby 3.5 的兼容警告
