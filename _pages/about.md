@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes Large Language Model, MultiModal Retreival and DeepSearch (AI Agent). If you are seeking any form of academic or work collaboration, please feel free to email **benchen4395@gmail.com**. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>.
+My research interest includes MultiModal Retreival, Generative Recommendation, and DeepSearch (AI Agent). If you are seeking any form of academic or work collaboration, please feel free to email **benchen4395@gmail.com**. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>.
 
 # 📖 Employments
 - *2024.06 - Now*, Multimodal Retreival and AI Search, Kuashou Technology. 
 - *2010.07 - 2024.06*, International Commerce Business Unit, Alibaba Group. 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) was released, The first end-to-end generative framework for Image Retreival.
 - *2025.11*: &nbsp;🎉🎉 [OneSug](https://arxiv.org/pdf/2506.06913) was accepted in AAAI 2026. 
 - *2025.09*: &nbsp;🎉🎉 [*OneSearch*](https://arxiv.org/pdf/2509.03236) was released, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw). 
 
@@ -46,7 +47,7 @@ My research interest includes Large Language Model, MultiModal Retreival and Dee
 </div>
 
 - [OneSug: The Unified End-to-End Generative Framework for E-commerce Query Suggestion](https://dl.acm.org/doi/pdf/10.1145/3746252.3760880), Xian Guo, **Ben Chen**, Siyuan Wang, Ying Yang, Chenyi Lei, Yuqing Ding, Han Li, **AAAI 2025**
-- [CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://www.arxiv.org/abs/2601.03728), Zhipeng Qian, Zihan Liang, Yufei Ma, Ben Chen, Huangyu Dai, Yiwei Ma, et. al. **Arxiv:2601.03728**
+- [CSMCIR: CoT-Enhanced Symmetric Alignment with Memory Bank for Composed Image Retrieval](https://www.arxiv.org/abs/2601.03728), Zhipeng Qian, Zihan Liang, Yufei Ma, **Ben Chen**, Huangyu Dai, Yiwei Ma, et. al. **Arxiv:2601.03728**
 - [UniDGF: A Unified Detection-to-Generation Framework for Hierarchical Object Visual Recognition](https://arxiv.org/pdf/2511.15984), Xinyu Nan, Lingtao Mao, Huangyu Dai, Zexin Zheng, Xinyu Sun, Zihan Liang, **Ben Chen**, Yuqing Ding, Chenyi Lei, Wenwu Ou, Han Li, **Arxiv:2511.15984**
 - [H-PRM: A Pluggable Hotword Pre-Retrieval Module for Various Speech Recognition Systems](https://dl.acm.org/doi/pdf/10.1145/3746252.3760880), Huangyu Dai, Lingtao Mao, **Ben Chen**, Zihan Wang, Zihan Liang, Ying Han, Chenyi Lei, Han Li, **CIKM 2025**
 - [UniECS: Unified Multimodal E-Commerce Search Framework with Gated Cross-modal Fusion](https://dl.acm.org/doi/pdf/10.1145/3746252.3761170), Zihan Liang, Yufei Ma, ZhiPeng Qian, Huangyu Dai, Zihan Wang, **Ben Chen**, Chenyi Lei, Yuqing Ding, Han Li, **CIKM 2025**
@@ -60,7 +61,7 @@ My research interest includes Large Language Model, MultiModal Retreival and Dee
 - [Modula: Mixture of domain-specific and universal lora for multi-task learning](https://dl.acm.org/doi/pdf/10.1145/3746252.3760880), Yufei Ma, Zihan Liang, Huangyu Dai, **Ben Chen**, Dehong Gao, Zhuoran Ran, et. al. **EMNLP 2025**
 - [Self-Renewal Prompt Optimizing with Implicit Reasoning](https://dl.acm.org/doi/pdf/10.1145/3746252.3760880), Zihan Liang, **Ben Chen**, Zhuoran Ran, Zihan Wang, Huangyu Dai, Yufei Ma, Dehong Gao, Xiaoyan Cai, Libin Yang, **EMNLP 2025**
 - [Contrastive Token Learning with Similarity Decay for Repetition Suppression in Machine Translation](https://arxiv.org/pdf/2409.19877), Huangyu Dai, **Ben Chen**, Kaidi Chen, Ying Han, Zihan Liang, Wen Jiang, **ArXiv:2509.19876**
-- [Robust Interaction-Based Relevance Modeling for Online e-Commerce Search](https://arxiv.org/pdf/2406.02135?), **Ben Chen**, Huangyu Dai, Xiang Ma, Wen Jiang, Wei Ning, **ECML-PKDD Outstanding Paper**
+- [Robust Interaction-Based Relevance Modeling for Online e-Commerce Search](https://arxiv.org/pdf/2406.02135?), **Ben Chen**, Huangyu Dai, Xiang Ma, Wen Jiang, Wei Ning, **ECML-PKDD** <span style="color:red">(Outstand Paper)</span>
 - [General2specialized llms translation for e-commerce](https://dl.acm.org/doi/pdf/10.1145/3589335.3651510), Kaidi Chen, **Ben Chen**, Dehong Gao, Huangyu Dai, Wen Jiang, Wei Ning, Shanqing Yu, Libin Yang, Xiaoyan Cai, **WWW 2024**
 - [Mutual Information Assisted Graph Convolution Network for Cold-Start Recommendation](https://ieeexplore.ieee.org/abstract/document/10447656), Wenbo Wang, **Ben Chen**, Bingquan Liu, Xinxin Wang, Luwei Yang, Wen Jiang, Wei Ning, Jian Guan, **ICASSP 2024**
 - [Preference aware dual contrastive learning for item cold-start recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/28763/29465), Wenbo Wang, Bingquan Liu, Lili Shan, Chengjie Sun, **Ben Chen**, Jian Guan, **AAAI 2024**
@@ -70,7 +71,7 @@ My research interest includes Large Language Model, MultiModal Retreival and Dee
 - [Automatic checkerboard detection for robust camera calibration](https://www.computer.org/csdl/proceedings-article/icme/2021/09428389/1uilx7JUJyw), **Ben Chen**, Yuyao Liu, Caihua Xiong, **ICME 2021**
 - [Leveraging domain agnostic and specific knowledge for acronym disambiguation](https://arxiv.org/pdf/2107.00316), Qiwei Zhong, Guanxiong Zeng, Danqing Zhu, Yang Zhang, Wangli Lin, **Ben Chen**, Jiayu Tang, **AAAI 2021**
 - [LNSMM: Eye gaze estimation with local network share multiview multitask](https://arxiv.org/pdf/2101.07116), Yong Huang, **Ben Chen**, Daiming Qu, **ArXiv:2101.07116**
-- [Transformer-based language model fine-tuning methods for COVID-19 fake news detection](https://arxiv.org/pdf/2101.05509), **Ben Chen**, Bin Chen, Dehong Gao, Qijin Chen, Chengfu Huo, Xiaonan Meng, Weijun Ren, Yang Zhou, **AAAI 2021 Share Task Best Paper**
+- [Transformer-based language model fine-tuning methods for COVID-19 fake news detection](https://arxiv.org/pdf/2101.05509), **Ben Chen**, Bin Chen, Dehong Gao, Qijin Chen, Chengfu Huo, Xiaonan Meng, Weijun Ren, Yang Zhou, **AAAI 2021** <span style="color:red">(Share Task Best Paper)</span> 
 - [Kaleido-bert: Vision-language pre-training on fashion domain](http://openaccess.thecvf.com/content/CVPR2021/papers/Zhuge_Kaleido-BERT_Vision-Language_Pre-Training_on_Fashion_Domain_CVPR_2021_paper.pdf), Mingchen Zhuge, Dehong Gao, Deng-Ping Fan, Linbo Jin, **Ben Chen**, Haoming Zhou, Minghui Qiu, Ling Shao, **CVPR 2021**
 - [Fashionbert: Text and image matching with adaptive loss for cross-modal retrieval](https://ieeexplore.ieee.org/abstract/document/10447656), Dehong Gao, Linbo Jin, **Ben Chen**, Minghui Qiu, Peng Li, Yi Wei, Yi Hu, Hao Wang, **SIGIR 2020**
 - [CCDN: Checkerboard corner detection network for robust camera calibration](https://arxiv.org/pdf/2302.05097), **Ben Chen**, Caihua Xiong, Qi Zhang, **ICIRA 2018 Oral**
