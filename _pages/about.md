@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes MultiModal Retreival, Generative Recommendation, and DeepSearch (AI Agent). If you are seeking any form of academic or work collaboration, please feel free to email **benchen4395@gmail.com**. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>.
+I'm Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. My research interest includes MultiModal Retreival, GRs, and Deep Search (Multi Agent). If you are seeking any form of academic or work collaboration, please feel free to email **benchen4395@gmail.com**. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>.
 
 # 📖 Employments
-- *2024.06 - Now*, Multimodal Retreival and AI Search, Kuashou Technology. 
-- *2010.07 - 2024.06*, International Commerce Business Unit, Alibaba Group. 
+- *2024.06 - Now*, Multimodal Retreival and AI Search, **Kuashou Technology**. 
+- *2010.07 - 2024.06*, International Commerce Business Unit, **Alibaba Group**. 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) was released, The first end-to-end generative framework for Image Retreival.
@@ -40,7 +40,7 @@ My research interest includes MultiModal Retreival, Generative Recommendation, a
   <div class='paper-box-text' markdown="1"> <!-- 右侧文本区（支持Markdown） -->
 
 [*OneSearch*: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://arxiv.org/pdf/2509.03236) \\
-**Ben Chen**, Xian Guo, Siyuan Wang, Zihan Liang, Yue Lv, Yufei Ma, Xinlong Xiao, Bowen Xue, et. al.
+**Ben Chen**, Xian Guo, Siyuan Wang, Zihan Liang, Yue Lv, Yufei Ma, Xinlong Xiao, Bowen Xue, Xuxin Zhang, Ying Yang, Huangyu Dai, et. al.
 - The first  industrial-deployed end-2-end generative framework for e-commerce search, with 24.06% gains in MFU and 75.40% reduction in OPEX.
 - Various offline and online A/B tests are conducted, verifying its effectiveness and efficiency for the real e-commerce search scenarios.
 </div>
