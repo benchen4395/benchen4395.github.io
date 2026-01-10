@@ -17,15 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interest includes Large Language Model, MultiModal Retreival and DeepSearch (AI Agent). If you are seeking any form of academic or work collaboration, please feel free to email benchen4395@gmail.com. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>.
+My research interest includes Large Language Model, MultiModal Retreival and DeepSearch (AI Agent). If you are seeking any form of academic or work collaboration, please feel free to email **benchen4395@gmail.com**. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar citations <strong><span id='total_cit'>600+</span></strong></a>.
 
 # 📖 Employments
 - *2024.06 - Now*, Multimodal Retreival and AI Search, Kuashou Technology. 
 - *2010.07 - 2024.06*, International Commerce Business Unit, Alibaba Group. 
-
-# 📖 Educations
-- *2017.09 - 2020.06*, Master, Huazhong University of Science and Technology, Wuhan. 
-- *2013.09 - 2017.06*, Undergraduate, Wuhan University, Wuhan. 
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 [OneSug](https://arxiv.org/pdf/2506.06913) was accepted in AAAI 2026. 
@@ -79,9 +75,13 @@ My research interest includes Large Language Model, MultiModal Retreival and Dee
 - [Fashionbert: Text and image matching with adaptive loss for cross-modal retrieval](https://ieeexplore.ieee.org/abstract/document/10447656), Dehong Gao, Linbo Jin, **Ben Chen**, Minghui Qiu, Peng Li, Yi Wei, Yi Hu, Hao Wang, **SIGIR 2020**
 - [CCDN: Checkerboard corner detection network for robust camera calibration](https://arxiv.org/pdf/2302.05097), **Ben Chen**, Caihua Xiong, Qi Zhang, **ICIRA 2018 Oral**
 
+# 📖 Educations
+- *2017.09 - 2020.06*, Master, Huazhong University of Science and Technology, Wuhan. 
+- *2013.09 - 2017.06*, Undergraduate, Wuhan University, Wuhan. 
+
 # 🎖 Honors and Awards
-- *2024.05* The Outstanding paper of ECML-PKDD 2024. 
-- *2021.02* The Best paper of AAAI2021 Shared Task Track. 
+- *2024.05*, The Outstanding paper of ECML-PKDD 2024. 
+- *2021.02*, The Best paper of AAAI2021 Shared Task Track. 
 
 
 # 💬 Invited Talks
