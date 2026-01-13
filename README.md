@@ -20,7 +20,7 @@ Ben Chen HomePage
 </p>
 
 Some examples:
-- HomePage: [benchen4395.github.io](https://rayeren.github.io/benchen4395.github.io/)
+- HomePage: [benchen4395.github.io](https://benchen4395.github.io/)
 - Email: benchen4395@gmail.com
 
 I’m Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. 
