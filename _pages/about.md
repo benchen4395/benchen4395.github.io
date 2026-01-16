@@ -25,7 +25,7 @@ I'm Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 [Coins](https://arxiv.org/pdf/2510.12604) is accepted in WWW 2026 Short, The semantic ids enhanced cold item representatioN for search CTR prediction.
-- *2026.01*: &nbsp;🎉🎉 [CRS]((https://arxiv.org/pdf/2510.16925)) is accepted in WWW 2026 Main, The Context-aware Reasoning enhanced Generative Searching in E-commerce.
+- *2026.01*: &nbsp;🎉🎉 [CRS](https://arxiv.org/pdf/2510.16925) is accepted in WWW 2026 Main, The Context-aware Reasoning enhanced Generative Searching in E-commerce.
 - *2026.01*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) is released, The first end-to-end generative framework for Image Retreival.
 - *2025.11*: &nbsp;🎉🎉 [OneSug](https://arxiv.org/pdf/2506.06913) is accepted in AAAI 2026. 
 - *2025.09*: &nbsp;🎉🎉 [*OneSearch*](https://arxiv.org/pdf/2509.03236) is released, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw). 
