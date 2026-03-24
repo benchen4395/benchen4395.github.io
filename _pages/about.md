@@ -21,10 +21,10 @@ I'm Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. 
 
 # 📖 Employments
 - *2024.06 - Now*, Multimodal Retreival and AI Search, **Kuaishou Technology**. 
-- *2010.07 - 2024.06*, International Commerce Business Unit, **Alibaba Group**. 
+- *2020.07 - 2024.06*, International Commerce Business Unit, **Alibaba Group**. 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 [CRS](https://arxiv.org/pdf/2510.16925) and [Coins](https://arxiv.org/pdf/2510.12604) are accepted in WWW 2026 Main, The Context-aware Reasoning Generative E-commerce Search.
+- *2026.01*: &nbsp;🎉🎉 [CRS](https://arxiv.org/pdf/2510.16925) are accepted in WWW 2026 Main, The Context-aware Reasoning Generative E-commerce Search.
 - *2026.01*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) is released, The first end-to-end generative framework for Image Retreival.
 - *2025.11*: &nbsp;🎉🎉 [OneSug](https://arxiv.org/pdf/2506.06913) is accepted in AAAI 2026, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw).
 - *2025.09*: &nbsp;🎉🎉 [*OneSearch*](https://arxiv.org/pdf/2509.03236) is released, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw). 
