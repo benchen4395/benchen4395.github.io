@@ -24,12 +24,30 @@ I'm Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. 
 - *2020.07 - 2024.06*, International Commerce Business Unit, **Alibaba Group**. 
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 [OneSearch-V2](https://arxiv.org/pdf/2603.24422) is realsed. Codes and data are public on [OneSearch-Family](https://github.com/benchen4395/onesearch-family)
 - *2026.01*: &nbsp;🎉🎉 [CRS](https://arxiv.org/pdf/2510.16925) are accepted in WWW 2026 Main, The Context-aware Reasoning Generative E-commerce Search.
 - *2026.01*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) is released, The first end-to-end generative framework for Image Retreival.
 - *2025.11*: &nbsp;🎉🎉 [OneSug](https://arxiv.org/pdf/2506.06913) is accepted in AAAI 2026, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw).
 - *2025.09*: &nbsp;🎉🎉 [*OneSearch*](https://arxiv.org/pdf/2509.03236) is released, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw). 
 
 # 📝 Publications 
+
+<div class='paper-box'> <!-- 论文卡片容器 -->
+  <div class='paper-box-image'> <!-- 左侧图片区 -->
+    <div>
+      <div class="badge">Arxiv 2603</div>  <!-- 会议标识 -->
+      <img src='images/comparison.png' alt="sym" width="100%"> <!-- 论文配图 -->
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1"> <!-- 右侧文本区（支持Markdown） -->
+
+[*OneSearch-V2*: The Latent Reasoning Enhanced Self-distillation Generative Search Framework](https://arxiv.org/pdf/2603.24422) \\
+**Ben Chen**, Ben Chen, Siyuan Wang, Yufei Ma, Zihan Liang, Xuxin Zhang, et. al.
+- A latent reasoning enhanced self-distillation generative search framework. Codes and data are public on [OneSearch-Family](https://github.com/benchen4395/onesearch-family)
+- It effectively mitigates common issues such as information bubbles and long-tail sparsity, without incurring additional inference costs or serving latency
+</div>
+</div>
+
 
 <div class='paper-box'> <!-- 论文卡片容器 -->
   <div class='paper-box-image'> <!-- 左侧图片区 -->
