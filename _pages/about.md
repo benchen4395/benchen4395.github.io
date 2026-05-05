@@ -24,6 +24,7 @@ I'm Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. 
 - *2020.07 - 2024.06*, International Commerce Business Unit, **Alibaba Group**. 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 [*OneSearch*](https://arxiv.org/pdf/2509.03236) have been accepted by ICML'26! 🎉🎉 
 - *2026.03*: &nbsp;🎉🎉 [OneSearch-V2](https://arxiv.org/pdf/2603.24422) is realsed. Codes and data are public on [OneSearch-Family](https://github.com/benchen4395/onesearch-family)
 - *2026.01*: &nbsp;🎉🎉 [CRS](https://arxiv.org/pdf/2510.16925) are accepted in WWW 2026 Main, The Context-aware Reasoning Generative E-commerce Search.
 - *2026.01*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) is released, The first end-to-end generative framework for Image Retreival.
@@ -52,7 +53,7 @@ I'm Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. 
 <div class='paper-box'> <!-- 论文卡片容器 -->
   <div class='paper-box-image'> <!-- 左侧图片区 -->
     <div>
-      <div class="badge">Arxiv 2509</div>  <!-- 会议标识 -->
+      <div class="badge">ICML 2026</div>  <!-- 会议标识 -->
       <img src='images/OneSearch_main.png' alt="sym" width="100%"> <!-- 论文配图 -->
     </div>
   </div>
