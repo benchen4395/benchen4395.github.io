@@ -17,21 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. My research interest includes MultiModal Retreival, GRs, and Deep Search (Multi Agent). If you are seeking any form of academic or work collaboration, please feel free to email **benchen4395@gmail.com**. I have published more than 30 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar citations <strong><span id='total_cit'>700+</span></strong></a>.
+I'm Ben Chen (陈犇), the group leader of **AI Search Team at Kuaishou Technology**. Now I am working on Agentic Search (Mutli-Agent), Generative Recommendation, and MultiModal Retreival. 
+
+
+I have published more than 40 papers at the top international AI conferences, including [Search-E1](https://arxiv.org/pdf/2605.22511), [OneSearch](https://arxiv.org/pdf/2509.03236), [InfoGain-RAG](https://aclanthology.org/2025.emnlp-main.365.pdf), and [BianQue](https://arxiv.org/pdf/2604.26805). I have been awarded the  <span style="color:red">best paper</span> award and  <span style="color:red">outstanding paper</span> award as the first author in the last three years.  The total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar</a> citations are about <strong><span id='total_cit'>800+</span></strong>.
+
+If you are seeking any form of academic or work collaboration, please feel free to email **benchen4395@gmail.com**.
 
 # 📖 Employments
 - *2024.06 - Now*, Multimodal Retreival and AI Search, **Kuaishou Technology**. 
 - *2020.07 - 2024.06*, International Commerce Business Unit, **Alibaba Group**. 
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 [*OneSearch*](https://arxiv.org/pdf/2509.03236) have been accepted by ICML'26! 🎉🎉 
+- *2026.05*: &nbsp;🎉🎉 [Search-E1](https://arxiv.org/pdf/2605.22511) is released. A self-distillation driven self-evolution in search-augmented reasoning.
 - *2026.03*: &nbsp;🎉🎉 [OneSearch-V2](https://arxiv.org/pdf/2603.24422) is realsed. Codes and data are public on [OneSearch-Family](https://github.com/benchen4395/onesearch-family)
-- *2026.01*: &nbsp;🎉🎉 [CRS](https://arxiv.org/pdf/2510.16925) are accepted in WWW 2026 Main, The Context-aware Reasoning Generative E-commerce Search.
-- *2026.01*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) is released, The first end-to-end generative framework for Image Retreival.
-- *2025.11*: &nbsp;🎉🎉 [OneSug](https://arxiv.org/pdf/2506.06913) is accepted in AAAI 2026, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw).
-- *2025.09*: &nbsp;🎉🎉 [*OneSearch*](https://arxiv.org/pdf/2509.03236) is released, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw). 
+- *2026.01*: &nbsp;🎉🎉 Two papers are accepted in WWW 2026 Main, The Context-aware Reasoning Generative E-commerce Search.
+- *2025.11*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) and [OneSug](https://arxiv.org/pdf/2506.06913) is released. Accepted in AAAI 2026, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw).
+- *2025.09*: &nbsp;🎉🎉 [*OneSearch*](https://arxiv.org/pdf/2509.03236) is released, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw). **accepted by ICML'26!**
 
 # 📝 Publications 
+- [Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning](https://arxiv.org/pdf/2605.22511), Zihan Liang, Yufei Ma, **Ben Chen**, Zhipeng Qian, Xuxin Zhang, Huangyu Dai, Lingtao Mao, **Arxiv:2605.22511**
+- [Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations](https://arxiv.org/pdf/2604.26805), Bochao Liu, Zhipeng Qian, Yang Zhao, Xinyuan Jiang, Zihan Liang, Yufei Ma, Junpeng Zhuang, **Ben Chen**, **Arxiv:2604.26805**
+- [TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval](https://arxiv.org/pdf/2605.18434), Xinyu Sun, Huangyu Dai, Lingtao Mao, Zexin Zheng, Zihan Liang, **Ben Chen**, Chenyi Lei, Wenwu Ou, **Arxiv:2605.18434**
+- [IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning](https://arxiv.org/pdf/2604.15148), Zihan Liang, Yufei Ma, **Ben Chen**, Zhipeng Qian, Huangyu Dai, Lingtao Mao, Xuxin Zhang, Chenyi Lei, Wenwu Ou, **Arxiv:2604.15148**
 
 <div class='paper-box'> <!-- 论文卡片容器 -->
   <div class='paper-box-image'> <!-- 左侧图片区 -->
@@ -60,7 +68,7 @@ I'm Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. 
   <div class='paper-box-text' markdown="1"> <!-- 右侧文本区（支持Markdown） -->
 
 [*OneSearch*: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](https://arxiv.org/pdf/2509.03236) \\
-**Ben Chen**, Xian Guo, Siyuan Wang, Zihan Liang, Yue Lv, Yufei Ma, Xinlong Xiao, Bowen Xue, Xuxin Zhang, Ying Yang, Huangyu Dai, et. al.
+**Ben Chen**, Xian Guo, Siyuan Wang, Zihan Liang, Yue Lv, Yufei Ma, Xinlong Xiao, Bowen Xue, Xuxin Zhang, Ying Yang, Huangyu Dai, et. al. <span style="color:red">(ICML 2026)</span>
 - The first  industrial-deployed end-2-end generative framework for e-commerce search, with 24.06% gains in MFU and 75.40% reduction in OPEX.
 - Various offline and online A/B tests are conducted, verifying its effectiveness and efficiency for the real e-commerce search scenarios.
 </div>
@@ -106,9 +114,9 @@ I'm Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. 
 
 
 # 💬 Invited Talks
+- *2026.03*, The KuaiShou Technology Sharing Conference
 - *2025.11*, [The 4th National Large Model and Generation Conference (LMG2025)](https://mp.weixin.qq.com/s/R46_AxdH1dSniAmesIqHvQ). 
 - *2025.10*, The KuaiShou Technical Sharing Seminar
-- 
 
 # 💻 Internships
 - *2019.07 - 2020.06*, Alibaba, Hangzhou.

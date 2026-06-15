@@ -25,6 +25,6 @@ Some examples:
 
 I’m Ben Chen (陈犇), now working on Generative Recommendation, and AI Search. 
 
-My research interest includes MultiModal Retreival, GRs, and Deep Search (Multi Agent). 
+My research interest includes MultiModal Retreival, Generative Retrieval, and Agentic Search (Multi Agent). 
 
 If you are seeking any form of academic or work collaboration, please feel free to email benchen4395@gmail.com. 
