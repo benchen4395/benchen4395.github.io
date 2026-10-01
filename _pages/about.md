@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Ben Chen (陈犇), the group leader of **AI Search Team at Kuaishou Technology**. Now I am working on Agentic Search (Mutli-Agent), Generative Recommendation, and MultiModal Retreival. 
+I'm Ben Chen (陈犇), Now is the group lead of **post‑training of multimodal foundation models at Kuaishou Technology**. Before 26/08, I were the group leader of **AI Search Team at Kuaishou Technology**. Now I am working on Multimodal Reasoning, Agentic RL, Agentic Search (Mutli-Agent), and MOPD. 
 
 
-I have published more than 40 papers at the top international AI conferences, including [Search-E1](https://arxiv.org/pdf/2605.22511), [OneSearch](https://arxiv.org/pdf/2509.03236), [InfoGain-RAG](https://aclanthology.org/2025.emnlp-main.365.pdf), and [BianQue](https://arxiv.org/pdf/2604.26805). I have been awarded the  <span style="color:red">best paper</span> award and  <span style="color:red">outstanding paper</span> award as the first author in the last three years.  The total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar</a> citations are about <strong><span id='total_cit'>970+</span></strong>.
+I have published more than 60 papers at the top international AI conferences, including [Search-E1](https://arxiv.org/pdf/2605.22511), [OneSearch](https://arxiv.org/pdf/2509.03236), [InfoGain-RAG](https://aclanthology.org/2025.emnlp-main.365.pdf), and [BianQue](https://arxiv.org/pdf/2604.26805). I have been awarded the  <span style="color:red">best paper</span> award and  <span style="color:red">outstanding paper</span> award as the first author in the last three years.  The total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar</a> citations are about <strong><span id='total_cit'>1000+</span></strong>.
 
 If you are seeking any form of academic or work collaboration, please feel free to email **benchen4395@gmail.com**.
 
@@ -29,34 +29,36 @@ If you are seeking any form of academic or work collaboration, please feel free 
 - *2020.07 - 2024.06*, International Commerce Business Unit, **Alibaba Group**. 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 **Five Papers have been accepted in NeurIPS'2026.** [OneSearch-V2](https://arxiv.org/pdf/2603.24422), [Bian Que](https://arxiv.org/pdf/2604.26805), [SD-Search](https://arxiv.org/abs/2605.18299), [TIGER-FG](https://arxiv.org/pdf/2605.18434) are accepted!
 - *2026.09*: &nbsp;🎉🎉 [OneRetrieval](https://arxiv.org/pdf/2606.13533) have been accepted in ICDE'2026.
 - *2026.08*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) have been accepted in EMNLP'2026.
 - *2026.05*: &nbsp;🎉🎉 [Search-E1](https://arxiv.org/pdf/2605.22511) is released. A self-distillation driven self-evolution in search-augmented reasoning.
-- *2026.03*: &nbsp;🎉🎉 [OneSearch-V2](https://arxiv.org/pdf/2603.24422) is realsed. Codes and data are public on [OneSearch-Family](https://github.com/benchen4395/onesearch-family)
+- *2026.03*: &nbsp;🎉🎉 [OneSearch-V2](https://arxiv.org/pdf/2603.24422) is realsed. Codes and data are public on [OneSearch-Family](https://github.com/benchen4395/onesearch-family), **accepted by <span style="color:red">NeurIPS 2026</span>!**
 - *2025.11*: &nbsp;🎉🎉 [OneVision](https://arxiv.org/pdf/2510.05759) and [OneSug](https://arxiv.org/pdf/2506.06913) is released. Accepted in AAAI 2026, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw).
 - *2025.09*: &nbsp;🎉🎉 [*OneSearch*](https://arxiv.org/pdf/2509.03236) is released, and reported by [*机器之心*](https://mp.weixin.qq.com/s/PfeXNCLokJ36uHb2lNxMbw). **accepted by <span style="color:red">ICML 2026</span>!**
 
 # 📝 Publications 
+- [SD-Search: On-Policy Hindsight Self-Distillation for Search-Augmented Reasoning](https://arxiv.org/pdf/2605.18299), Yufei Ma, Zihan Liang, Ben Chen, Zhipeng Qian, Huangyu Dai, Lingtao Mao, Xuxin Zhang, Chenyi Lei, Wenwu Ou, **NeurIPS 2026**
 - [PRQ-KMeans: Projection Residual Quantization for Semantic ID Tokenization](https://arxiv.org/pdf/2608.24207), Yunxiao Luo, Siyuan Wang, **Ben Chen**, Chenyi Lei, **Arxiv:2608.24207**
 - [OneRetrieval: Unifying Multi-Branch E-commerce Retrieval with an Editable Generative Model](https://arxiv.org/pdf/2606.13533), Yao Tang, Ying Yang, Ben Chen, Yufei Ma, Zihan Liang, Chenyi Lei, Wenwu Ou, Jian Liu, **ICDE 2026**
 - [OneBar: An End-to-End Content-Grounded Generative Query Recommendation Framework for E-Commerce Video Feeds](https://arxiv.org/pdf/2606.15330), Yao Tang, Ying Yang, Ben Chen, Yufei Ma, Zihan Liang, Chenyi Lei, Wenwu Ou, Jian Liu, **Arxiv:2606.15330**
 - [Plan Before Search: Search Agents Need Plan](https://arxiv.org/pdf/2605.28354), Zhipeng Qian, Zihan Liang, Yufei Ma, Ben Chen, Huangyu Dai, Jiayi Ji, Chenyi Lei, Wenwu Ou, Xiaoshuai Sun, Qibin Hou, **Arxiv:2605.28354**
 - [Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning](https://arxiv.org/pdf/2605.22511), Zihan Liang, Yufei Ma, **Ben Chen**, Zhipeng Qian, Xuxin Zhang, Huangyu Dai, Lingtao Mao, **Arxiv:2605.22511**
-- [Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations](https://arxiv.org/pdf/2604.26805), Bochao Liu, Zhipeng Qian, Yang Zhao, Xinyuan Jiang, Zihan Liang, Yufei Ma, Junpeng Zhuang, **Ben Chen**, **Arxiv:2604.26805**
-- [TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval](https://arxiv.org/pdf/2605.18434), Xinyu Sun, Huangyu Dai, Lingtao Mao, Zexin Zheng, Zihan Liang, **Ben Chen**, Chenyi Lei, Wenwu Ou, **Arxiv:2605.18434**
+- [Bian Que: An Agentic Framework with Flexible Skill Arrangement for Online System Operations](https://arxiv.org/pdf/2604.26805), Bochao Liu, Zhipeng Qian, Yang Zhao, Xinyuan Jiang, Zihan Liang, Yufei Ma, Junpeng Zhuang, **Ben Chen**, **NeurIPS 2026**
+- [TIGER-FG: Text-Guided Implicit Fine-Grained Grounding for E-commerce Retrieval](https://arxiv.org/pdf/2605.18434), Xinyu Sun, Huangyu Dai, Lingtao Mao, Zexin Zheng, Zihan Liang, **Ben Chen**, Chenyi Lei, Wenwu Ou, **NeurIPS 2026**
 - [IG-Search: Step-Level Information Gain Rewards for Search-Augmented Reasoning](https://arxiv.org/pdf/2604.15148), Zihan Liang, Yufei Ma, **Ben Chen**, Zhipeng Qian, Huangyu Dai, Lingtao Mao, Xuxin Zhang, Chenyi Lei, Wenwu Ou, **Arxiv:2604.15148**
 
 <div class='paper-box'> <!-- 论文卡片容器 -->
   <div class='paper-box-image'> <!-- 左侧图片区 -->
     <div>
-      <div class="badge">Arxiv 2603</div>  <!-- 会议标识 -->
+      <div class="badge">NeruIPS 2026</div>  <!-- 会议标识 -->
       <img src='images/comparison.png' alt="sym" width="100%"> <!-- 论文配图 -->
     </div>
   </div>
   <div class='paper-box-text' markdown="1"> <!-- 右侧文本区（支持Markdown） -->
 
 [*OneSearch-V2*: The Latent Reasoning Enhanced Self-distillation Generative Search Framework](https://arxiv.org/pdf/2603.24422) \\
-**Ben Chen**, Siyuan Wang, Yufei Ma, Zihan Liang, Xuxin Zhang, Yue Lv, Ying Yang, Huangyu Dai, Lingtao Mao, Tong Zhao, Zhipeng Qian, Xinyu Sun, et. al.
+**Ben Chen**, Siyuan Wang, Yufei Ma, Zihan Liang, Xuxin Zhang, Yue Lv, Ying Yang, Huangyu Dai, Lingtao Mao, Tong Zhao, Zhipeng Qian, Xinyu Sun, et. al.  <span style="color:red">(NeurIPS 2026)</span>
 - A latent reasoning enhanced self-distillation generative search framework. Codes and data are public on [OneSearch-Family](https://github.com/benchen4395/onesearch-family)
 - It effectively mitigates common issues such as information bubbles and long-tail sparsity, without incurring additional inference costs or serving latency
 </div>
