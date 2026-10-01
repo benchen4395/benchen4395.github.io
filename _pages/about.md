@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm Ben Chen (陈犇), Now is the group lead of **post‑training of multimodal foundation models at Kuaishou Technology**. Before 26/08, I were the group leader of **AI Search Team at Kuaishou Technology**. Now I am working on Multimodal Reasoning, Agentic RL, Agentic Search (Mutli-Agent), and MOPD. 
+I'm Ben Chen (陈犇), Now is the group lead of **post‑training of multimodal foundation models at Kuaishou Technology**. Before 26/08, I were the group leader of **AI Search Team**. I have developed [OneSearch](https://arxiv.org/pdf/2509.03236), the first end-to-end generative retrieval framework for search engine, as well as [Search-E1](https://arxiv.org/pdf/2605.22511), a self-evolving search agent system. Now I am working on Multimodal Reasoning, Agentic RL, Agentic Search (Mutli-Agent), and Recursive Self-Improvement (RSI). 
 
 
-I have published more than 60 papers at the top international AI conferences, including [Search-E1](https://arxiv.org/pdf/2605.22511), [OneSearch](https://arxiv.org/pdf/2509.03236), [InfoGain-RAG](https://aclanthology.org/2025.emnlp-main.365.pdf), and [BianQue](https://arxiv.org/pdf/2604.26805). I have been awarded the  <span style="color:red">best paper</span> award and  <span style="color:red">outstanding paper</span> award as the first author in the last three years.  The total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar</a> citations are about <strong><span id='total_cit'>1000+</span></strong>.
+I have published more than 50 papers at the top international AI conferences, including [Search-E1](https://arxiv.org/pdf/2605.22511), [OneSearch](https://arxiv.org/pdf/2509.03236), [InfoGain-RAG](https://aclanthology.org/2025.emnlp-main.365.pdf), and [BianQue](https://arxiv.org/pdf/2604.26805). I have been awarded the  <span style="color:red">best paper</span> award and  <span style="color:red">outstanding paper</span> award as the first author in the last three years.  The total <a href='https://scholar.google.com/citations?user=aE8P-fwAAAAJ'>google scholar</a> citations are about <strong><span id='total_cit'>1000+</span></strong>.
 
 If you are seeking any form of academic or work collaboration, please feel free to email **benchen4395@gmail.com**.
 
