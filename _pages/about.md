@@ -58,7 +58,7 @@ If you are seeking any form of academic or work collaboration, please feel free 
   <div class='paper-box-text' markdown="1"> <!-- 右侧文本区（支持Markdown） -->
 
 [*OneSearch-V2*: The Latent Reasoning Enhanced Self-distillation Generative Search Framework](https://arxiv.org/pdf/2603.24422) \\
-**Ben Chen**, Siyuan Wang, Yufei Ma, Zihan Liang, Xuxin Zhang, Yue Lv, Ying Yang, Huangyu Dai, Lingtao Mao, Tong Zhao, Zhipeng Qian, Xinyu Sun, et. al.  <span style="color:red">(NeurIPS 2026)</span>
+**Ben Chen**, Siyuan Wang, Yufei Ma, Zihan Liang, Xuxin Zhang, Yue Lv, Ying Yang, Huangyu Dai, Lingtao Mao, Tong Zhao, Zhipeng Qian, et. al.  <span style="color:red">(NeurIPS 2026)</span>
 - A latent reasoning enhanced self-distillation generative search framework. Codes and data are public on [OneSearch-Family](https://github.com/benchen4395/onesearch-family)
 - It effectively mitigates common issues such as information bubbles and long-tail sparsity, without incurring additional inference costs or serving latency
 </div>
